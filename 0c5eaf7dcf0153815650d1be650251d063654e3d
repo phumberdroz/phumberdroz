@@ -1,0 +1,22 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.7",
+  "base_commit_sha": "0c5eaf7dcf0153815650d1be650251d063654e3d",
+  "prompts": {
+    "e74237b5ad6c86dc": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019caa99-2365-7741-98fd-b49817aba4bf",
+        "model": "gpt-5.3-codex-spark"
+      },
+      "human_author": "Pierre Humberdroz <p.humberdroz@gmail.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 9,
+      "accepted_lines": 0,
+      "overriden_lines": 0,
+      "messages_url": "https://usegitai.com/cas/8f3c5902e6cd6b5922671e74f3888211dcc17da940b6115b18bf73b0ad5adc9e"
+    }
+  }
+}
