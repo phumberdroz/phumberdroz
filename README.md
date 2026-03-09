@@ -13,4 +13,4 @@ Senior Engineering leader with 15+ years building scalable product and platform 
 
 ## Find me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/pierre-humberdroz)
+- 💼 [LinkedIn](https://www.linkedin.com/in/phumberdroz)
